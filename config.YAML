@@ -1,0 +1,7 @@
+name: Safety Incident Validation
+key: incident_id
+compare_columns:
+  - plant
+  - incident_type
+  - incident_status
+  - incident_date
